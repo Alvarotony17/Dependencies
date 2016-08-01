@@ -5,5 +5,6 @@ package app.com.tony.dependencies;
  */
 public class NewClass {
     public NewClass() {
+
     }
 }
